@@ -45,5 +45,4 @@ Aplicación de consola en Java desarrollada para la empresa **Soluciones Eficien
 - **MySQL**
 - **POO**
 - **Manejo de Archivos de Texto**
-- **Diseño modular por paquetes**
 ---
