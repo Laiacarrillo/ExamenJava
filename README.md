@@ -1,4 +1,4 @@
-# Examen_Java
+# Examen_Java_LaiaCarrillo
 
 Aplicación de consola en Java desarrollada para la empresa **Soluciones Eficientes S.A.S.**, dedicada a ofrecer servicios de outsourcing. Esta herramienta permite gestionar clientes, servicios, contratos, empleados y proyectos a través de una interfaz de consola, utilizando conexión a base de datos MySQL mediante JDBC.
 
